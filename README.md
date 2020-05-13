@@ -27,6 +27,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 	<!-- lined-icons -->
 	<link rel="stylesheet" href="css/icon-font.min.css" type='text/css' />
+	<link rel="stylesheet" href="mycss/mycss.css" type='text/css' />
 	<!-- //lined-icons -->
 </head>
 <body>
@@ -88,6 +89,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!--//four-grids here-->
 			<!--agileinfo-grap-->
 			<div class="agileinfo-grap">
+				<img src="svg/languagerange.svg" alt="example">
 			</div>
 			<!--//agileinfo-grap-->
 			<!--photoday-section-->
